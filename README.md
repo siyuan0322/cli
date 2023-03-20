@@ -45,6 +45,6 @@ gem install bashly
 
 ### Generate script
 ```bash
-# git clone https://github.com/GraphScope/cli.git & cd cli
+# git clone https://github.com/GraphScope/cli.git && cd cli
 bashly generate
 ```
